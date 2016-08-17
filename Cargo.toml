@@ -1,0 +1,13 @@
+[package]
+name = "second-law"
+version = "0.1.0"
+authors = ["Nathan Ross <nross.se@gmail.com>"]
+description = "Another crate redirect"
+homepage = "https://github.com/nathanross/second-law-dashredirect"
+license = "MIT"
+include = [
+    "**/*.rs",
+    "Cargo.toml"
+]
+
+[dependencies]
